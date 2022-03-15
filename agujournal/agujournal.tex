@@ -100,17 +100,43 @@
 % Example: \authors{A. B. Author\affil{1}\thanks{Current address, Antartica}, B. C. Author\affil{2,3}, and D. E.
 % Author\affil{3,4}\thanks{Also funded by Monsanto.}}
 
-\authors{=list all authors here=}
+\authors{Robert C. Cline, Sr., Emilio Molina, Rafael Mendez}
 
+% \affiliation{}
+% \affiliation{}
+
+% \affiliation{1}{}
+% \affiliation{2}{}  
+
+\affiliation{1}{Department of Genetics, University of Nowhere,
+Somewhere, NE 69162, USA}
+\affiliation{2}{Department of Data Science, Sidney University, Sidney,
+NE 69162, USA}
+  
+
+% \affiliation{1}{} % from elio
 
 % \affiliation{1}{First Affiliation}
 % \affiliation{2}{Second Affiliation}
 % \affiliation{3}{Third Affiliation}
 % \affiliation{4}{Fourth Affiliation}
 
-\affiliation{=number=}{=Affiliation Address=}
-%(repeat as many times as is necessary)
+% \affiliation{=number=}{=Affiliation Address=}
+%(repeat as many times as is necessary) 
 
+%%\affiliation{1}{Department of Genetics, University of Nowhere,
+Somewhere, NE 69162, USA}
+% \affiliation{1}{Department of Genetics, University of Nowhere,
+Somewhere, NE 69162, USA}
+% \affiliation{1}{Department of Genetics, University of Nowhere,
+Somewhere, NE 69162, USA}
+%%\affiliation{2}{Department of Data Science, Sidney University, Sidney,
+NE 69162, USA}
+% \affiliation{2}{Department of Data Science, Sidney University, Sidney,
+NE 69162, USA}
+% \affiliation{2}{Department of Data Science, Sidney University, Sidney,
+NE 69162, USA}
+%
 %% Corresponding Author:
 % Corresponding author mailing address and e-mail address:
 
@@ -121,7 +147,8 @@
 
 % Example: \correspondingauthor{First and Last Name}{email@address.edu}
 
-\correspondingauthor{=name=}{=email address=}
+\correspondingauthor{Robert C. Cline,
+Sr.}{\href{mailto:rccline@fastmail.fm}{\nolinkurl{rccline@fastmail.fm}}} % {=name=}{=email address=}
 
 %% Keypoints, final entry on title page.
 
@@ -137,9 +164,9 @@
 % \end{keypoints}
 
 \begin{keypoints}
-\item enter point 1 here
-\item enter point 2 here
-\item enter point 3 here
+\item Y-chromosome divergence mirrors the population divergence %enter point 1 here
+\item Neanderthal Y-chromosome has never been observed in modern humans
+\item Male specific minor histocompatibility antigens (H-Y) may play a role in reproductive isolation
 \end{keypoints}
 
 %% ------------------------------------------------------------------------ %%
@@ -164,7 +191,7 @@
 %% \begin{abstract} starts the second page
 
 \begin{abstract}
-[ enter your Abstract here ]
+This is the very interesting abstract.
 \end{abstract}
 
 \section*{Plain Language Summary}
@@ -187,12 +214,6 @@ using R Markdown see \url{http://rmarkdown.rstudio.com}.
 When you click the \textbf{Knit} button a document will be generated
 that includes both content as well as the output of any embedded R code
 chunks within the document. You can embed an R code chunk like this:
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\FunctionTok{summary}\NormalTok{(cars)}
-\end{Highlighting}
-\end{Shaded}
 
 \begin{verbatim}
 ##      speed           dist       

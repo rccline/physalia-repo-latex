@@ -5,6 +5,26 @@ date: '2022-03-15'
 output: 
   pdf_document:
     template: "agujournaltemplate.tex"
+abstract: "This is the very interesting abstract."  
+authors: "Robert C. Cline, Sr., Emilio Molina, Rafael Mendez"
+name: "Robert C. Cline, Sr."
+email_address: "rccline@fastmail.fm"
+
+# affiliation1: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
+# affiliation2: Department of Evolutionary Genetics, University of Nowhere, Somewhere, NE 69162, USA
+
+
+# 
+# affiliations:
+#    - number: 1
+#      affiliation: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
+affiliations:
+  - number: 1
+    affiliation: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
+  - number: 2
+    affiliation: Department of Data Science, Sidney University, Sidney, NE 69162, USA
+#  number: 3
+#     affiliation: Department of Evolutionary Genetics, Sidney University, Sidney, NE 69162, USA
 ---
 
 ```{r setup, include=FALSE}
