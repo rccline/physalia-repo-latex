@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.13)  15 MAR 2022 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.13)  15 MAR 2022 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,58 +306,21 @@ LaTeX Info: Redefining \ref on input line 68.
 LaTeX Info: Redefining \pageref on input line 68.
 LaTeX Info: Redefining \nameref on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 111.
+(Font)              <8> on input line 112.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 111.
+(Font)              <6> on input line 112.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 111.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 139.
-[1{c:/Users/Robert/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 170.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 170.
-
-
-Overfull \hbox (0.7657pt too wide) in paragraph at lines 183--186
-[]\OT1/cmr/m/n/10 This is an R Mark-down doc-u-ment. Mark-down is a sim-ple for-mat-ting syn-tax for 
- []
-
-
-Overfull \hbox (6.26573pt too wide) in paragraph at lines 183--186
-\OT1/cmr/m/n/10 au-thor-ing HTML, PDF, and MS Word doc-u-ments. For more de-tails on us-ing R Mark- 
- []
-
-
-Overfull \hbox (10.61273pt too wide) in paragraph at lines 187--190
-[]\OT1/cmr/m/n/10 When you click the \OT1/cmr/bx/n/10 Knit \OT1/cmr/m/n/10 but-ton a doc-u-ment will be gen-er-ated that in-cludes both 
- []
-
-
-Overfull \hbox (16.82121pt too wide) in paragraph at lines 187--190
-\OT1/cmr/m/n/10 con-tent as well as the out-put of any em-bed-ded R code chunks within the doc-u-ment. You 
- []
-
-
-! LaTeX Error: Environment Shaded undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.191 \begin{Shaded}
-                     
+(Font)              <5> on input line 112.
+! Too many }'s.
+l.128 Somewhere, NE 69162, USA}
+                                
 Here is how much of TeX's memory you used:
- 9593 strings out of 480236
- 153593 string characters out of 5893968
- 440922 words of memory out of 5000000
- 27435 multiletter control sequences out of 15000+600000
- 474195 words of font info for 45 fonts, out of 8000000 for 9000
+ 9577 strings out of 480236
+ 153274 string characters out of 5893968
+ 436922 words of memory out of 5000000
+ 27426 multiletter control sequences out of 15000+600000
+ 472608 words of font info for 39 fonts, out of 8000000 for 9000
  20 hyphenation exceptions out of 8191
- 70i,8n,76p,263b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,3n,76p,263b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
