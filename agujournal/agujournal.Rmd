@@ -18,11 +18,13 @@ email_address: "rccline@fastmail.fm"
 # affiliations:
 #    - number: 1
 #      affiliation: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
-affiliations:
-  - number: 1
-    affiliation: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
-  - number: 2
-    affiliation: Department of Data Science, Sidney University, Sidney, NE 69162, USA
+
+############################# affiliations ERROR #EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+# affiliations:
+#   - number: 1
+#     affiliation: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
+#   - number: 2
+#    affiliation: Department of Data Science, Sidney University, Sidney, NE 69162, USA
 #  number: 3
 #     affiliation: Department of Evolutionary Genetics, Sidney University, Sidney, NE 69162, USA
 ---
