@@ -11,8 +11,9 @@ name: "Robert C. Cline, Sr."
 email_address: "rccline@fastmail.fm"
 
 affiliation1: Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA
-affiliation2: Department of Evolutionary Genetics, University of Nowhere, Somewhere, NE 69162, USA  
+affiliation2: Department of Evolutionary Genetics, University of Nowhere, Somewhere, NE 69162, USA
 affiliation3: Department of Paleoanthropology, University of Metropolis, Metropolis, KS 69162, USA
+
 
 # affiliation1: "Department of Genetics, University of Nowhere, Somewhere, NE 69162, USA"
 # affiliation2: "Department of Data Science, Sidney University, Sidney, NE 69162, USA"
